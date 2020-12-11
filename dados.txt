@@ -1,0 +1,80 @@
+1
+Ana Margarida
+Lisboa
+32
+2
+Paulo Ricardo
+Porto
+12
+3
+Fernanda Mateus
+Madrid
+27
+4
+Rui Martins
+Lisboa
+45
+5
+Carla Santos
+Rio de Janeiro
+29
+6
+Daniel Santos
+Porto
+54
+7
+Pedro Malaquias
+Rio de Janeiro
+42
+8
+Jaime Daniel
+Paris
+67
+9
+Carlos Trindade
+Madrid
+53
+10
+Marco Pereira
+Lisboa
+8
+11
+Susana Oliveira
+Paris
+28
+12
+Carla Antunes
+Porto
+25
+13
+Luana Costa
+Londres
+58
+14
+Lucas Moreno
+Paris
+40
+15
+Xavier Torres
+Madrid
+102
+16
+Hugo Carvalho
+Porto
+68
+17
+Rita Nunes
+Londres
+72
+18
+Rute Martins
+Rio de Janeiro
+55
+19
+Tatiana Dantas
+Paris
+23
+20
+Paulo Oliveira
+Lisboa
+71
